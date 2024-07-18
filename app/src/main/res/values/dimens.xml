@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_corner">14dp</dimen>
+    <dimen name="inner_padding">16dp</dimen>
+    <dimen name="text_divider_small">2dp</dimen>
+    <dimen name="divider_thickness">0.5dp</dimen>
+    <dimen name="alert_row_padding">11.5dp</dimen>
+
+    <!--    font sizes-->
+    <dimen name="primary_fontSize">17sp</dimen>
+    <dimen name="secondary_fontSize">13sp</dimen>
+
+</resources>
